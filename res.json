@@ -1,0 +1,38 @@
+{
+  "name": "Repick",
+  "short_name": "Repick",
+  "start_url": "https://www.repick.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#026061",
+  "description": "Blog Personal yang membahas seputar Tutorial AMP Blogger secara detail dan lengkap dengan gaya bahasa yang mudah dipahami",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s48/pavicon%2Brepick.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s72/pavicon%2Brepick.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s96/pavicon%2Brepick.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s144/pavicon%2Brepick.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s168/pavicon%2Brepick.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "hhttps://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s192/pavicon%2Brepick.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nG-mjbY77Yw/X50xYQEQVfI/AAAAAAAAAHs/XPtGI09p2OYNF7ssQ3jSzgTlQVAXg48mwCLcBGAsYHQ/s512/pavicon%2Brepick.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
